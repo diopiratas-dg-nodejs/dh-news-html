@@ -18,6 +18,14 @@ main {
     padding-bottom: 50px;
 }
 
+.destaque {
+    background-image: url("../img/destaque.webp");    
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 small.data {
     font-weight: 700;
 }
